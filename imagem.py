@@ -1,5 +1,6 @@
 import streamlit as st
-from streamlit_camera_input_live import camera_input_live
+# from streamlit_camera_input_live import camera_input_live
+from camera_input_live import camera_input_live
 import requests
 import base64
 
